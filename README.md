@@ -23,6 +23,8 @@ I'm open to collaborations on interesting projects, especially those related to 
 
 Feel free to reach out to me:
 - GitHub: [@animesh-kalita](https://github.com/animesh-kalita)
+  # &
+- GitHub: [@Ak-nut-47](https://github.com/Ak-nut-47)
 
 ## 😄 Pronouns
 

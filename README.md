@@ -12,7 +12,7 @@ I'm continuously learning and exploring new technologies to stay up-to-date with
 
 ## 💼 Current Work
 
-- Working at LatTech
+- Working at Taabi Mobility 
 - Tech Stack: MERN (MongoDB, Express.js, React, Node.js), GraphQL, Apollo Server, PostgreSQL
 
 ## 💞️ Collaboration

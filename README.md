@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Animesh Kalita
 
-Welcome to my GitHub profile! I'm currently working at Lattech
+Welcome to my GitHub profile! I'm currently working at Taabi
 
 ## 👀 About Me
 
